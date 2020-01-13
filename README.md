@@ -53,4 +53,4 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 Лінк на завдання https://htmlacademy.ru/courses/65/run/13
 Лінк на результат https://htmlacademy.pp.ua/puzzle
 
-<img src="https://htmlacademy.pp.ua/puzzle/screen.png" alt="grid htmlacademy" />
+<img src="https://htmlacademy.pp.ua/puzzle/screen.png" alt="puzzle htmlacademy" />
