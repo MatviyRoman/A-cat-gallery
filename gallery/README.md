@@ -13,6 +13,6 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Лінк на завдання https://htmlacademy.ru/courses/65/run/32
 
-<img src="https://catgallery.matviy.pp.ua/screen.png" alt="cat gallery" />
+<img src="https://htmlacademy.pp.ua/screen.png" alt="cat gallery" />
 
 Моє портфоліо <a href="https://matviy.pp.ua" style="color: #0f0 !important">Roman Matviy front-end</a>
