@@ -15,4 +15,4 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 <img src="https://catgallery.matviy.pp.ua/screen.png" alt="cat gallery" />
 
-Моє портфоліо <a href="https://matviy.pp.ua">Roman Matviy front-end</a>
+Моє портфоліо <a href="https://matviy.pp.ua" style="color: #0f0;">Roman Matviy front-end</a>
