@@ -35,3 +35,5 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Лінк на завдання https://htmlacademy.ru/courses/65/run/27
 Лінк на результат https://htmlacademy.pp.ua/grid
+
+<img src="https://htmlacademy.pp.ua/grid/screen.png" alt="grid htmlacademy" />
