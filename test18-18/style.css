@@ -1,9 +1,17 @@
+body, td, th {
+    padding: 10px;
+}
+
 h1 {
   font-size: 20px;
 }
 
 h1 + .results {
   margin-top: 20px;
+}
+
+td, th {
+    border: 1px solid #b5b5b5;
 }
 
 th {
