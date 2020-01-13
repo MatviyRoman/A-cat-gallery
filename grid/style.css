@@ -1,0 +1,114 @@
+   html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      width: 450px;
+      height: 335px;
+
+      font-size: 10px;
+      font-family: "Arial", sans-serif;
+      color: white;
+    }
+
+    /*
+      Используемые цвета:
+      #34495e – мокрый асфальт
+      #c0392b – красный
+      #3498db – синий
+    */
+
+    .header {
+      background-color: #34495e;
+      margin-bottom: 10px;
+      padding-top: 5px;
+    }
+
+    .layout-positioner {
+      width: 350px;
+      margin: 0 auto;
+    }
+    .layout-positioner::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .layout {
+      margin-bottom: 10px;
+      padding-top: 5px;
+      padding-left: 5px;
+    }
+    .layout-header {
+      background-color: #c0392b;
+      min-height: 30px;
+      margin-top: 5px;
+    }
+
+    .layout-menu {
+      width: 450px;
+      margin-left: -50px;
+      background-color: #3498db;
+      min-height: 35px;
+      padding-top: 5px;
+      padding-left: 55px;
+      box-sizing: border-box;
+    }
+
+    .layout-promo1,
+    .layout-promo2 {
+      background-color: #c0392b;
+      width: 165px;
+      min-height: 55px;
+    }
+
+
+    .layout-promo1 {
+      float: left;
+    }
+
+    .layout-promo2 {
+      float: right;
+    }
+
+    .features {
+      margin-bottom: 10px;
+    }
+
+    .layout-column {
+      background-color: #3498db;
+      min-height: 105px;
+      margin-right: 10px;
+      padding-top: 5px;
+      padding-left: 5px;
+    }
+
+    .layout-column1 {
+      width: 65px;
+      float: left;
+    }
+
+    .layout-column2 {
+      float: left;
+      width: 185px;
+    }
+
+    .layout-column3 {
+      float: right;
+      margin-right: 0px;
+      width: 65px;
+    }
+    
+    .layout-footer {
+      width: 450px;
+      background-color: #34495e;
+    }
+
+    .footer {
+      min-height: 45px;
+      padding-top: 5px;
+      padding-left: 5px;
+      box-sizing: border-box;
+    }
