@@ -1,4 +1,9 @@
-# A-cat-gallery
+# htmlacademy
+Мої проходження випробовувань в htmlacademy на 100%
+
+Випробовування 32/32
+
+# A-cat-gallery <a href="https://htmlacademy.pp.ua/gallery">Галерея на inline-block</a>
 Випробовування: котогалерея на inline-block | Испытание: котогалерея на inline-block , яке я пройшов самостійно на 100%
 
 
@@ -16,3 +21,4 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 <img src="https://htmlacademy.pp.ua/gallery/screen.png" alt="cat gallery" />
 
 Моє портфоліо <a href="https://matviy.pp.ua" style="color: #0f0 !important">Roman Matviy front-end</a>
+
