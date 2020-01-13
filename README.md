@@ -3,7 +3,7 @@
 
 Випробовування 32/32
 
-# A-cat-gallery <a href="https://htmlacademy.pp.ua">Галерея на inline-block</a>
+# A-cat-gallery <a href="https://htmlacademy.pp.ua/gallery">Галерея на inline-block</a>
 Випробовування: котогалерея на inline-block | Испытание: котогалерея на inline-block , яке я пройшов самостійно на 100%
 
 
