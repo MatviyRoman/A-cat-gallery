@@ -1,4 +1,4 @@
-# htmlacademy
+# htmlacademy.pp.ua
 Мої проходження випробовувань в htmlacademy на 100%
 
 # Випробовування 32/32
@@ -16,10 +16,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Примените те приёмы работы с блочно-строчными элементами, которые разбирались в предыдущих заданиях.
 
-Лінк на завдання https://htmlacademy.ru/courses/65/run/32
-Лінк на результат https://htmlacademy.pp.ua/gallery
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/65/run/32">https://htmlacademy.ru/courses/65/run/32</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/gallery">https://htmlacademy.pp.ua/gallery</a><br>
 
-<img src="https://htmlacademy.pp.ua/gallery/screen.png" alt="cat gallery" />
+<a hreh="https://htmlacademy.pp.ua/gallery">
+	<img src="https://htmlacademy.pp.ua/gallery/screen.png" alt="cat gallery" />
+</a>
 
 Моє портфоліо <a href="https://matviy.pp.ua" style="color: #0f0 !important">Roman Matviy front-end</a>
 
@@ -33,10 +35,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Как обычно, все размеры и отступы кратны 5, а используемые цвета перечислены в комментарии в CSS.
 
-Лінк на завдання https://htmlacademy.ru/courses/65/run/27
-Лінк на результат https://htmlacademy.pp.ua/grid
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/65/run/27">https://htmlacademy.ru/courses/65/run/27</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/grid">https://htmlacademy.pp.ua/grid</a><br>
 
-<img src="https://htmlacademy.pp.ua/grid/screen.png" alt="grid htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/grid">
+	<img src="https://htmlacademy.pp.ua/grid/screen.png" alt="grid htmlacademy" />
+</a>
 
 # Випробування 13/32
 
@@ -50,10 +54,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Напомним об одной тонкости: для того, чтобы флоатный блок мог обтекаться обычным, он должен в коде располагаться выше обычного.
 
-Лінк на завдання https://htmlacademy.ru/courses/65/run/13
-Лінк на результат https://htmlacademy.pp.ua/puzzle
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/65/run/13">https://htmlacademy.ru/courses/65/run/13</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/puzzle">https://htmlacademy.pp.ua/puzzle</a><br>
 
-<img src="https://htmlacademy.pp.ua/puzzle/screen.png" alt="puzzle htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/puzzle">
+	<img src="https://htmlacademy.pp.ua/puzzle/screen.png" alt="puzzle htmlacademy" />
+</a>
 
 # Випробування 8/23
 
@@ -68,10 +74,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Внутренние отступы, в отличие от заданий, здесь непрозрачные.
 
-Лінк на завдання https://htmlacademy.ru/courses/44/run/8
-Лінк на результат https://htmlacademy.pp.ua/test8-23
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/44/run/8">https://htmlacademy.ru/courses/44/run/8</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/test8-23">https://htmlacademy.pp.ua/test8-23</a><br>
 
-<img src="https://htmlacademy.pp.ua/test8-23/screen.png" alt="test 8/23 htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/test8-23">
+	<img src="https://htmlacademy.pp.ua/test8-23/screen.png" alt="test 8/23 htmlacademy" />
+</a>
 
 # Випробування 16/23
 
@@ -84,10 +92,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Обратите внимание, что HTML-код заблокирован, а некоторые CSS-свойства в нём заданы в атрибуте style. Это означает, что для решения испытания вам не нужно переопределять эти свойства, а нужно принять их как ограничения.
 
-Лінк на завдання https://htmlacademy.ru/courses/44/run/16
-Лінк на результат https://htmlacademy.pp.ua/test16-23
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/44/run/16">https://htmlacademy.ru/courses/44/run/16</a><br>
+Лінк на результат <a hreh="hhttps://htmlacademy.pp.ua/test16-23">https://htmlacademy.pp.ua/test16-23</a><br>
 
-<img src="https://htmlacademy.pp.ua/test16-23/screen.png" alt="test 16/23 htmlacademy" />
+<a hreh="hhttps://htmlacademy.pp.ua/test16-23">
+	<img src="https://htmlacademy.pp.ua/test16-23/screen.png" alt="test 16/23 htmlacademy" />
+</a>
 
 # Випробування 23/23
 
@@ -95,10 +105,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 Изменять нужно только свойства, относящиеся к блочной модели.
 
-Лінк на завдання https://htmlacademy.ru/courses/44/run/23
-Лінк на результат https://htmlacademy.pp.ua/test23-23
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/44/run/23">https://htmlacademy.ru/courses/44/run/23</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/test23-23">https://htmlacademy.pp.ua/test23-23</a><br>
 
-<img src="https://htmlacademy.pp.ua/test23-23/screen.png" alt="test 23/23 htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/test23-23">
+	<img src="https://htmlacademy.pp.ua/test23-23/screen.png" alt="test 23/23 htmlacademy" />
+</a>
 
 
 # Випробування 18/18
@@ -114,10 +126,12 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 нужно прописать классы для некоторых элементов.
 Подробная информация по таблицам и по оформлению текстов есть в соответствующих главах.
 
-Лінк на завдання https://htmlacademy.ru/courses/42/run/18
-Лінк на результат https://htmlacademy.pp.ua/test18-18
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/42/run/18">https://htmlacademy.ru/courses/42/run/18</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/test18-18">https://htmlacademy.pp.ua/test18-18</a><br>
 
-<img src="https://htmlacademy.pp.ua/test18-18/screen.png" alt="test 18/18 htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/test18-18">
+	<img src="https://htmlacademy.pp.ua/test18-18/screen.png" alt="test 18/18 htmlacademy" />
+</a>
 
 
 # Випробування 9/28
@@ -129,18 +143,20 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 В испытании используются следующие цвета:
 
-#ffffff
-#2980b9
-#2c3e50
-#1abc9c
-#2ecc71
+<span style="color: #ffffff">#ffffff</span>
+<span style="color: #2980b9">#2980b9</span>
+<span style="color: #2c3e50">#2c3e50</span>
+<span style="color: #1abc9c">#1abc9c</span>
+<span style="color: #2ecc71">#2ecc71</span>
 
 Подсказки:
 все размеры и отступы кратны 5;
 толщина рамок у пунктов меню 2px.
 
-Лінк на завдання https://htmlacademy.ru/courses/50/run/9
-Лінк на результат https://htmlacademy.pp.ua/vertical-menu
-Лінк на codepen https://codepen.io/matviy/pen/yLyqyBe
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/50/run/9">https://htmlacademy.ru/courses/50/run/9</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/vertical-menu">https://htmlacademy.pp.ua/vertical-menu</a><br>
+Лінк на codepen <a hreh="https://codepen.io/matviy/pen/yLyqyBe">https://codepen.io/matviy/pen/yLyqyBe</a><br>
 
-<img src="https://htmlacademy.pp.ua/vertical-menu/screen.png" alt="vertical menu htmlacademy" />
+<a hreh="https://htmlacademy.pp.ua/vertical-menu">
+	<img src="https://htmlacademy.pp.ua/vertical-menu/screen.png" alt="vertical menu htmlacademy" />
+</a>
