@@ -143,11 +143,11 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 В испытании используются следующие цвета:
 
-<span style="color: #ffffff">#ffffff</span>
-<span style="color: #2980b9">#2980b9</span>
-<span style="color: #2c3e50">#2c3e50</span>
-<span style="color: #1abc9c">#1abc9c</span>
-<span style="color: #2ecc71">#2ecc71</span>
+<span style="color: #ffffff">#ffffff</span><br>
+<span style="color: #2980b9">#2980b9</span><br>
+<span style="color: #2c3e50">#2c3e50</span><br>
+<span style="color: #1abc9c">#1abc9c</span><br>
+<span style="color: #2ecc71">#2ecc71</span><br>
 
 Подсказки:
 все размеры и отступы кратны 5;
@@ -159,4 +159,32 @@ HTML-код полностью готов и заблокирован. CSS-ко�
 
 <a hreh="https://htmlacademy.pp.ua/vertical-menu">
 	<img src="https://htmlacademy.pp.ua/vertical-menu/screen.png" alt="vertical menu htmlacademy" />
+</a>
+
+
+# Випробовування 15/28
+
+Испытание: многоуровневое меню
+Оформите многоуровневое меню. HTML-код уже готов и его изменить невозможно.
+
+Обратите внимание, что оформление пунктов здесь проще, чем в предыдущих заданиях и использовать отрицательные отступы не нужно.
+
+В испытании используются следующие цвета:
+
+<span style="color: #ffffff">#ffffff</span><br>
+<span style="color: #2980b9">#2980b9</span><br>
+<span style="color: #2c3e50">#2c3e50</span><br>
+<span style="color: #1abc9c">#1abc9c</span><br>
+
+Подсказки:
+все размеры и отступы кратны 5;
+толщина рамок у пунктов меню 2px;
+и у подменю, и у пунктов подменю есть свои отступы.
+
+Лінк на завдання <a hreh="https://htmlacademy.ru/courses/50/run/15">https://htmlacademy.ru/courses/50/run/15</a><br>
+Лінк на результат <a hreh="https://htmlacademy.pp.ua/multi-line-menu">https://htmlacademy.pp.ua/multi-line-menu</a><br>
+Лінк на codepen <a hreh="https://codepen.io/matviy/pen/wvBxdNP">https://codepen.io/matviy/pen/wvBxdNP</a><br>
+
+<a hreh="https://htmlacademy.pp.ua/vertical-menu">
+	<img src="https://htmlacademy.pp.ua/multi-line-menu/screen.png" alt="multi line menu htmlacademy" />
 </a>
